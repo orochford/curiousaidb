@@ -24,7 +24,7 @@ articles: analyzed articles
 
 
 ## Articles table schema
-
+topic
 title
 uri
 news_source
@@ -42,4 +42,5 @@ driver_type
 driver_type_explanation
 tags
 
-2f4b218 (Curious AI DB 25 October 2024)
+
+
